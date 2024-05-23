@@ -48,7 +48,7 @@
                                     </backgroundConfiguration>
                                 </buttonConfiguration>
                                 <connections>
-                                    <action selector="counterDown:" destination="BYZ-38-t0r" eventType="touchUpInside" id="F8W-zV-ax2"/>
+                                    <action selector="counterButtonDown:" destination="BYZ-38-t0r" eventType="touchUpInside" id="F8W-zV-ax2"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="0O9-7n-hcu">
